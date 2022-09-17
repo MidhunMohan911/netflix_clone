@@ -32,6 +32,8 @@ Flutter provides http package to use http resources. The http package uses await
 - categorized Movies into trending,popular,most watched,etc
 
 
+## Getting Started
+
 
 A few resources to get you started if this is your first Flutter project:
 
